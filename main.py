@@ -8,7 +8,8 @@ How the line targets the brief: the entry is a dying phone's farewell,
 structured like a deathbed will -- a message for the charger it loved,
 one for the group chat it dies inside mid-sentence, and a final jab at
 the owner who ignored the power bank sitting right there. The last
-clause is the turn: the phone dies vindicated, not helpless.
+clause is the turn: the phone does not die helpless, it dies right --
+and it makes sure everybody hears about it.
 """
 
 import os
